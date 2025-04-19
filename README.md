@@ -33,6 +33,6 @@ This is a static frontend clone of the Amazon homepage, built using **HTML** and
    ```bash
    git clone https://github.com/Mahesh20dev/Amazon-clone
    open index.html
-
+    Go to the page ->  https://mahesh20dev.github.io/Amazon-clone/
 
 
